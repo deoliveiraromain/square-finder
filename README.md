@@ -1,3 +1,7 @@
+Il s’agit de compter tous les carrés distincts que l’on peut former avec une liste de points d'un fichier.  
+
+Le format du fichier est le suivant :  x1 y1  x2 y2  ….  etc.
+
 Pour la compilation des sources : jdk1.7 nécessaire.
 
 Se placer dans le dossier Exercice_Carre
